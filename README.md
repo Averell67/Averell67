@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @ManiacXHG
-- 👀 I’m interested in crypto
-- 🌱 I’m currently learning crypto
-- 💞️ I’m looking to collaborate on crypto
-- 📫 How to reach me crypto
-- 😄 Pronouns: crypto
+- 👀 I’m interested in c
+- 🌱 I’m currently learning cr
+- 💞️ I’m looking to collaborate on cry
+- 📫 How to reach me cryp
+- 😄 Pronouns: crypt
 - ⚡ Fun fact: crypto
 
 <!---
