@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on cry
 - 📫 How to reach me cryp
 - 😄 Pronouns: crypt
-- ⚡ Fun fact: crypto
+- ⚡ Fun fact: crypto !
 
 <!---
 ManiacXHG/ManiacXHG is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
