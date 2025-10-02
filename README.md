@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ManiacXHG
+- 👋 Hi, I’m @Averell67
 - 👀 I’m interested in c
 - 🌱 I’m currently learning cr
 - 💞️ I’m looking to collaborate on cry
